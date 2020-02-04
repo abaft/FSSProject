@@ -30,6 +30,12 @@ Or it can be used in another program to simulate the function of the finite stat
 This part will take an abstract finite state machine and output a logic circuit in primitive logical block.
 My boolean bases are yet to be determined.
 
+# Steak Holders
+
+## Engineers
+
+These are likely the users of my software
+
 # Plan
 
 ## Research phase
@@ -46,3 +52,5 @@ From a cursory look at the problem I suspect that the major challenges I will ha
 3. Finding algorithms to minimise boolean expressions.
 
 These are the problems which appear to be the most tricky to solve.
+
+# Resarch
