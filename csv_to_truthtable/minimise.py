@@ -63,4 +63,5 @@ for one in ones:
 		table_aggr[bin(one).count("1")].append(inter(one))
 	else:
 		table_aggr[bin(one).count("1")] = [inter(one)]
-print(table_aggr)
+
+
